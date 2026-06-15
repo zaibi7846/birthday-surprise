@@ -1,0 +1,51 @@
+
+body {
+  margin:0;
+  background: radial-gradient(circle,#000,#111);
+  color:white;
+  text-align:center;
+  font-family:Arial;
+  overflow:hidden;
+}
+
+#countdown {
+  font-size:90px;
+  margin-top:20%;
+  color:gold;
+}
+
+#main {
+  display:none;
+}
+
+.name {
+  font-size:90px;
+  color:gold;
+  text-shadow:0 0 30px gold;
+}
+
+.slideshow img {
+  width:70%;
+  border-radius:20px;
+  box-shadow:0 0 40px gold;
+}
+
+.message {
+  width:70%;
+  margin:auto;
+  padding:20px;
+  background:rgba(255,255,255,0.05);
+  border-radius:15px;
+}
+
+.cake {
+  font-size:100px;
+  margin-top:10px;
+}
+
+button {
+  padding:10px 20px;
+  background:gold;
+  border:none;
+  border-radius:10px;
+}
